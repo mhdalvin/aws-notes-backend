@@ -1,19 +1,11 @@
 const notes = [
     {
-        id: 'alvin',
-        title: 'Alvin',
-        tags: ['test'],
-        body: 'Muhammad Alvin, biasa dipanggil Alvin, lahir di Medan pada tanggal 28 Maret 1988',
-        createdAt: '1988-03-28T00:00:00.000Z',
-        updatedAt: '1988-03-28T00:00:00.000Z',
-    },
-    {
-        id: 'yayan',
-        title: 'Yayan',
-        tags: ['test'],
-        body: 'Afridayanti Damanik, biasa dipanggil Yayan, lahir di Tebing Tinggi pada tanggal 8 April 1988',
-        createdAt: '1988-04-08T00:00:00.000Z',
-        updatedAt: '1988-04-08T00:00:00.000Z',
+        id: 'lipsum1',
+        title: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit',
+        tags: ['lipsum', 'lorem', 'ipsum'],
+        body: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vel eros neque. Quisque vestibulum mauris felis, sed fringilla nunc ultricies at. Quisque a nisl sit amet augue tincidunt tristique at ornare dolor. Proin magna leo, aliquet a rhoncus suscipit, ultrices quis sapien. In quis sollicitudin mauris, non pretium leo. Cras at accumsan ipsum, in facilisis nunc. Cras ac scelerisque lacus, finibus feugiat nulla.',
+        createdAt: '2000-01-01T00:00:00.000Z',
+        updatedAt: '2000-01-01T00:00:00.000Z',
     },
 ];
 
